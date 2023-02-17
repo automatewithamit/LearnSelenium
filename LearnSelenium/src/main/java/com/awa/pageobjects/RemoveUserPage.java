@@ -4,7 +4,7 @@
 package com.awa.pageobjects;
 
 /**
- * @author DragonWarrior-PC
+ * @author Remove User created in Remove user branch
  *
  */
 public class RemoveUserPage {
