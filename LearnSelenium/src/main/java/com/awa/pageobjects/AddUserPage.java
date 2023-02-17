@@ -8,5 +8,5 @@ package com.awa.pageobjects;
  *
  */
 public class AddUserPage {
-
+	//Added by Mayur  for Add User
 }
